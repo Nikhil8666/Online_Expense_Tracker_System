@@ -10,7 +10,7 @@
         <div class="grid-cols-2">
           <div class="grid-item-1">
             <h1 class="main-heading">
-              Welcome to <span>Expenditure.</span>
+              Welcome to <span>Expenditures.</span>
               <br />
               To Analysis your spend.
             </h1>
